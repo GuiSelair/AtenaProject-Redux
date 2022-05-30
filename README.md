@@ -3,8 +3,8 @@
 	<h1>
 		<b>📚 Atena Project 📚</b>
 		<br/>
-		<small>Redux</small>
 	</h1>
+	<strong>Redux | Redux Saga | Redux Toolkit</strong>
 </div>
 
 ## **INTRODUÇÃO**
