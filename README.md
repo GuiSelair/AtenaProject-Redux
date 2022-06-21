@@ -1,10 +1,6 @@
 <div align="center">
-	<img src=".github/atena.png" alt="Atena" width="100"/>
-	<h1>
-		<b>📚 Atena Project 📚</b>
-		<br/>
-	</h1>
-	<strong>Redux | Redux Saga | Redux Toolkit</strong>
+	<img src=".github/athena.png" alt="Atena"/>
+	<h1><strong>Redux | Redux Saga | Redux Toolkit</strong></h1>
 </div>
 
 ## **INTRODUÇÃO**
